@@ -1,4 +1,4 @@
-# Welcome to Streamlit `links page`
+# Welcome to TMB Streamlit `links page`
 
 <img src="streamlit-links-page.png" width="350">
 
@@ -11,7 +11,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chanin.streamlitapp.com/)
 
-# Setting up
+# How to Setup
 
 Getting your own Streamlit `links page` up and running is really easy, just follow the following 3 steps:
 
@@ -19,6 +19,7 @@ Getting your own Streamlit `links page` up and running is really easy, just foll
 
 **Step 2**. Customize the contents of the newly generated `links page` by editing the `streamlit_app.py` file:
 
+## Python code
 ```python
 import streamlit as st
 from st_functions import st_button, load_css
