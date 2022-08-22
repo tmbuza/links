@@ -1,4 +1,4 @@
-# Welcome to TMB Streamlit `links page`
+# Welcome to TMB Streamlit **links page**
 
 <img src="streamlit-links-page.png" width="350">
 
