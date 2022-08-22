@@ -45,7 +45,7 @@ st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee
 ```
 
 There are 3 key information that you can modify:
-1. `st.header(A)` is used for specifying your name in place of **A**.
+1. `st.header(Data Insights, In Progress)` is used for specifying your name in place of **A**.
 Example:
 ```python
 st.header('Chanin Nantasenamat, Ph.D.')
