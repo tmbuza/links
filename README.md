@@ -1,4 +1,5 @@
-# Welcome to TMB Streamlit **links page**
+# Welcome to TMB Streamlit
+> This is just a model for learning purposes. Credit goes to [dataprofessor](https://github.com/dataprofessor/links) for sharing this template.
 
 <img src="streamlit-links-page.png" width="350">
 
