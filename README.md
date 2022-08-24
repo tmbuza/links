@@ -1,7 +1,9 @@
 # Welcome to TMB Streamlit
 > This is just a model for learning purposes. Credit goes to [dataprofessor](https://github.com/dataprofessor/links) for sharing this template.
+
 <br><br>
-<img src="streamlit-links-page.png" width="350">
+
+<img src="streamlit_logo.png" width="350">
 
 
 > A Streamlit app that you can build for free to store all your personal links that is similar in functionality to that of [Linktr.ee](https://linktr.ee/).
